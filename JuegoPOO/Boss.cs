@@ -13,7 +13,7 @@ namespace JuegoPOO
         }
         public override int Atacar()
         {
-            return Ataque + 10;
+            return Ataque;
         }
         public override int Curar()
         {
